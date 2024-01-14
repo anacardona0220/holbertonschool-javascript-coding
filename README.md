@@ -105,7 +105,7 @@ Avoid Overuse: Use web scraping responsibly and avoid scraping a site so frequen
 To see web scraping in action, check out the provided code examples in the "Examples" directory. These examples cover a range of scenarios, from basic scraping to more complex tasks.
 
 ## Authors
-![GitHub Contributors Image](https://contrib.rocks/image?repo=anacardona0220/holbertonschool-higher_level_programming) Michel Caballero Granado - <a href="https://github.com/anacardona0220" target="_blank"> @anacardona0220</a> :genie_woman:![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=anacardona0220&show_icons=true)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=anacardona0220/holbertonschool-higher_level_programming) Ana Maria Cardona Botero - <a href="https://github.com/anacardona0220" target="_blank"> @anacardona0220</a> :genie_woman:![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=anacardona0220&show_icons=true)
 
 
 
