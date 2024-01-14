@@ -1,9 +1,9 @@
 # holbertonschool-javascript-coding
-JavaScript Web Scraping
-Description
+#JavaScript Web Scraping
+##Description
 Web scraping is the process of extracting data from websites. JavaScript, with its powerful ecosystem and robust libraries, is an excellent choice for web scraping tasks. This README.md will guide you through the world of JavaScript web scraping, from understanding the fundamentals to exploring advanced techniques and best practices.
 
-Table of Contents
+##Table of Contents
 JavaScript Web Scraping
 Description
 Table of Contents
@@ -18,7 +18,8 @@ Ethical Considerations
 Examples
 Resources
 Authors
-Introduction
+
+##Introduction
 Web scraping involves automating the extraction of data from websites, which can be used for various purposes like data analysis, research, or building applications. JavaScript, as a versatile programming language, offers several advantages for web scraping, including cross-browser compatibility, asynchronous capabilities, and a vibrant ecosystem of tools and libraries.
 
 Why Choose JavaScript for Web Scraping
@@ -34,10 +35,10 @@ DOM Manipulation: JavaScript's ability to manipulate the Document Object Model (
 
 JSON Handling: JavaScript natively supports JSON, simplifying the storage and manipulation of scraped data.
 
-Getting Started
+##Getting Started
 Before diving into web scraping, make sure you have a solid understanding of JavaScript fundamentals. Familiarize yourself with concepts like variables, functions, and control structures. You should also have a basic understanding of HTML and CSS as these are crucial for navigating and extracting data from web pages.
 
-Essential Tools and Libraries
+##Essential Tools and Libraries
 To get started with web scraping in JavaScript, you'll need some essential tools and libraries:
 
 Node.js: Install Node.js on your machine to run JavaScript code outside the browser. It provides access to the fs module for file operations.
@@ -50,7 +51,7 @@ Cheerio: A lightweight and fast library for parsing and manipulating HTML and XM
 
 Axios or node-fetch: These libraries simplify making HTTP requests, which is a fundamental part of web scraping.
 
-Basic Web Scraping
+##Basic Web Scraping
 To start web scraping, you'll typically follow these steps:
 
 Send HTTP Requests: Use libraries like Axios or node-fetch to fetch the HTML content of the web page you want to scrape.
@@ -63,7 +64,7 @@ Extract Data: Extract the desired data from the selected elements, whether it's 
 
 Store Data: Store the scraped data in a suitable format, such as JSON, CSV, or a database.
 
-Advanced Techniques
+##Advanced Techniques
 As you gain experience, you can explore advanced web scraping techniques:
 
 Handling Pagination: Learn how to scrape data from multiple pages by navigating through paginated content.
@@ -74,7 +75,7 @@ Dynamic Websites: Master the art of scraping data from websites with dynamic con
 
 Rate Limiting: Implement rate limiting and delays to avoid overloading websites and getting blocked.
 
-Best Practices
+##Best Practices
 To become a proficient web scraper, follow these best practices:
 
 Respect Robots.txt: Check a website's robots.txt file to understand scraping permissions and limitations.
@@ -89,7 +90,7 @@ Data Storage: Organize and store scraped data systematically to make it easier t
 
 Documentation: Keep detailed documentation of your scraping code, including comments and notes on website structure.
 
-Ethical Considerations
+##Ethical Considerations
 Web scraping can have legal and ethical implications. Always adhere to the following ethical guidelines:
 
 Respect Terms of Service: Scraper scripts should comply with a website's terms of service and policies.
@@ -100,13 +101,13 @@ Rate Limiting: Implement rate limiting to avoid putting excessive strain on the 
 
 Avoid Overuse: Use web scraping responsibly and avoid scraping a site so frequently that it disrupts its normal operation.
 
-Examples
+##Examples
 To see web scraping in action, check out the provided code examples in the "Examples" directory. These examples cover a range of scenarios, from basic scraping to more complex tasks.
 
-Resources
+##Resources
 Here are some valuable resources to help you become proficient in JavaScript web scraping:
 
-Official Documentation:
+##Official Documentation:
 
 Node.js
 Puppeteer
